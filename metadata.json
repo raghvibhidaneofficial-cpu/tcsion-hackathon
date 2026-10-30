@@ -1,0 +1,6 @@
+{
+  "name": "Nukkad Flood Map",
+  "description": "Hyperlocal lane-level flood risk map and community alert system for the Nag River basin in Nagpur, with safe evacuation routing, multilingual alerts, and ward officer dispatch.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
